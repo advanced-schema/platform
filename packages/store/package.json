@@ -24,7 +24,7 @@
     "state management"
   ],
   "publishConfig": {
-    "access": "public"
+    "registry": "https://nexus.advanced-schema.com/repository/npm-adv-rd/"
   },
   "engines": {
     "node": ">=8"

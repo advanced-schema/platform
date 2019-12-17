@@ -20,8 +20,8 @@
       "exact": true,
       "githubRelease": true,
       "message": "chore(release): publish %s",
-      "signGitCommit": true,
-      "signGitTag": true
+      "signGitCommit": false,
+      "signGitTag": false
     }
   }
 }
