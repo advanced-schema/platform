@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [10.1.0](https://github.com/advanced-schema/platform/compare/v10.0.0...v10.1.0) (2019-12-17)
+
+### Features
+
+- **store:** add option outsideZone in root store dispatch ([2ee9f25](https://github.com/advanced-schema/platform/commit/2ee9f25))
+
 # [10.0.0](https://github.com/angular-redux/platform/compare/v9.0.1...v10.0.0) (2019-05-04)
 
 ### chore

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [10.1.0](https://github.com/advanced-schema/platform/compare/v10.0.0...v10.1.0) (2019-12-17)
+
+### Bug Fixes
+
+- update peer dependencies from ^9.0.0 to ^10.0.0 ([#87](https://github.com/advanced-schema/platform/issues/87)) ([fcea502](https://github.com/advanced-schema/platform/commit/fcea502))
+- **form:** connect formGroup input not mapped to connect base ([#94](https://github.com/advanced-schema/platform/issues/94)) ([9d1d6db](https://github.com/advanced-schema/platform/commit/9d1d6db)), closes [#85](https://github.com/advanced-schema/platform/issues/85)
+
+### Features
+
+- **store:** add option outsideZone in root store dispatch ([2ee9f25](https://github.com/advanced-schema/platform/commit/2ee9f25))
+
 # [10.0.0](https://github.com/angular-redux/platform/compare/v9.0.1...v10.0.0) (2019-05-04)
 
 ### Bug Fixes
