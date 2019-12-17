@@ -86,15 +86,15 @@ For some clarity:
 
 ## Angular 5+
 
-Use `@angular-redux/store@^7` - this version supports Angular 5, and also changes to using lettable operators.
+Use `@nodata/angular-redux-store@^7` - this version supports Angular 5, and also changes to using lettable operators.
 
 Any new major releases will released on the v7 branch and with the `@latest` tag for final publishes.
 
 ## Angular 4 or lower
 
-Use `@angular-redux/store@^6` - This supports Angular 4 and earlier.
+Use `@nodata/angular-redux-store@^6` - This supports Angular 4 and earlier.
 
-# Support for `@angular-redux/store@6`?
+# Support for `@nodata/angular-redux-store@6`?
 
 Where possible, I will be maintaining and applying any fixes / enhancements for v7 into v6 where it does not introduce a breaking change.
 
@@ -307,7 +307,7 @@ Those packages will still be available on npm for as long as they are being used
 
 However we have published the same code under a new package naming scheme:
 
-- @angular-redux/store (formerly ng2-redux)
+- @nodata/angular-redux-store (formerly ng2-redux)
 - @angular-redux/router (formerly ng2-redux-router)
 - @angular-redux/form (formerly ng2-redux-form).
 
@@ -319,7 +319,7 @@ to 6.0.0.
 
 Apart from the rename, the following API changes are noted:
 
-- @angular-redux/store: none.
+- @nodata/angular-redux-store: none.
 - @angular-redux/router: none.
 - @angular-redux/form: `NgReduxForms` renamed to `NgReduxFormModule` for consistency.
 

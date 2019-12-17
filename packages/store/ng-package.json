@@ -4,7 +4,7 @@
     "entryFile": "src/index.ts",
     "languageLevel": ["esnext", "dom", "dom.iterable"],
     "umdModuleIds": {
-      "@angular-redux/store": "angularReduxStore",
+      "@nodata/angular-redux-store": "angularReduxStore",
       "redux": "redux"
     }
   }

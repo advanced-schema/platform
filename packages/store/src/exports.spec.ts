@@ -9,7 +9,7 @@ import {
   WithSubStore,
 } from './index';
 
-describe('The @angular-redux/store package exports', () => {
+describe('The @nodata/angular-redux-store package exports', () => {
   it('should contain the NgReduxModule class', () => {
     expect(NgReduxModule).toBeDefined();
   });

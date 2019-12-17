@@ -6,7 +6,7 @@
       "packages/*"
     ],
     "nohoist": [
-      "example-app/@angular-redux/store",
+      "example-app/@nodata/angular-redux-store",
       "example-app/@angular-redux/form",
       "example-app/@angular-redux/router",
       "example-app/ng-packagr"
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "build": "npm-run-all build:*",
-    "build:store": "yarn workspace @angular-redux/store build",
+    "build:store": "yarn workspace @nodata/angular-redux-store build",
     "build:form": "yarn workspace @angular-redux/form build",
     "build:router": "yarn workspace @angular-redux/router build",
     "build:example-app": "yarn workspace example-app build",

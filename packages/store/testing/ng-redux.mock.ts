@@ -6,7 +6,7 @@ import {
   NgRedux,
   PathSelector,
   Selector,
-} from '@angular-redux/store';
+} from '@nodata/angular-redux-store';
 import {
   AnyAction,
   Dispatch,

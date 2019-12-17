@@ -1,20 +1,20 @@
 {
-  "name": "@angular-redux/store",
+  "name": "@nodata/angular-redux-store",
   "version": "10.0.0",
   "description": "Angular bindings for Redux",
   "author": "William Buchwalter <wbuchwalter@gmail.com> (http://github.com/wbuchwalter)",
   "license": "MIT",
-  "homepage": "https://github.com/angular-redux/platform",
+  "homepage": "https://github.com/advanced-schema/platform",
   "main": "src/index.ts",
   "scripts": {
     "build": "ng-packagr -p ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angular-redux/platform.git"
+    "url": "git+https://github.com/advanced-schema/platform.git"
   },
   "bugs": {
-    "url": "https://github.com/angular-redux/platform/issues"
+    "url": "https://github.com/advanced-schema/platform/issues"
   },
   "keywords": [
     "angular",
